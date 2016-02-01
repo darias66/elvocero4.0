@@ -5,7 +5,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <title>Portada | El Vocero</title>
+        <title>Videos | El Vocero</title>
         <link href="img/favicon.png" rel="icon"/>
 
         <!-- Bootstrap -->
@@ -37,82 +37,84 @@
                     <div class="panel-body">
                         <div class="row">
                             <div class="col-sm-4">
-                                <a href=""><div class="thumbnail pnoticias">
+                                <a href="vervideos.php"><div class="thumbnail pnoticias">
                                     <img src="img/images (2).jpg" alt="...">
                                     <div class="caption">
-                                        <h4>Título de la noticia</h4>
+                                        <h4 class="ptitulonoticias">Título del video</h4>
                                     </div>
                                     </div> </a>
                             </div> <!-- /.lg-4 -->
                             <div class="col-sm-4">
-                                <div class="thumbnail pnoticias">
+                                <a href="vervideos.php"><div class="thumbnail pnoticias">
                                     <img src="img/images (2).jpg" alt="...">
                                     <div class="caption">
-                                        <h4>Título de la noticia</h4>
+                                        <h4 class="ptitulonoticias">Título del video</h4>
                                     </div>
-                                </div>
+                                    </div> </a>
                             </div> <!-- /.lg-4 -->
                             <div class="col-sm-4">
-                                <div class="thumbnail pnoticias">
+                                <a href="vervideos.php"><div class="thumbnail pnoticias">
                                     <img src="img/images (2).jpg" alt="...">
                                     <div class="caption">
-                                        <h4>Título de la noticia</h4>
+                                        <h4 class="ptitulonoticias">Título del video</h4>
                                     </div>
-                                </div>
-                            </div> <!-- /.lg-4 -->
-                        </div> <!-- /.row -->
-                        
-                        <div class="row">
-                            <div class="col-sm-4">
-                                <div class="thumbnail pnoticias">
-                                    <img src="img/images (2).jpg" alt="...">
-                                    <div class="caption">
-                                        <h4>Título de la noticia</h4>
-                                    </div>
-                                </div>
-                            </div> <!-- /.lg-4 -->
-                            <div class="col-sm-4">
-                                <div class="thumbnail pnoticias">
-                                    <img src="img/images (2).jpg" alt="...">
-                                    <div class="caption">
-                                        <h4>Título de la noticia</h4>
-                                    </div>
-                                </div>
-                            </div> <!-- /.lg-4 -->
-                            <div class="col-sm-4">
-                                <div class="thumbnail pnoticias">
-                                    <img src="img/images (2).jpg" alt="...">
-                                    <div class="caption">
-                                        <h4>Título de la noticia</h4>
-                                    </div>
-                                </div>
+                                    </div> </a>
                             </div> <!-- /.lg-4 -->
                         </div> <!-- /.row -->
+                        <hr>
                         
-                        <div class="row">
+                             <div class="row">
                             <div class="col-sm-4">
-                                <div class="thumbnail pnoticias">
+                                <a href="vervideos.php"><div class="thumbnail pnoticias">
                                     <img src="img/images (2).jpg" alt="...">
                                     <div class="caption">
-                                        <h4>Título de la noticia</h4>
+                                        <h4 class="ptitulonoticias">Título del video</h4>
                                     </div>
-                                </div>
+                                    </div> </a>
                             </div> <!-- /.lg-4 -->
                             <div class="col-sm-4">
-                                <div class="thumbnail pnoticias">
+                                <a href="vervideos.php"><div class="thumbnail pnoticias">
                                     <img src="img/images (2).jpg" alt="...">
                                     <div class="caption">
-                                        <h4>Título de la noticia</h4>
+                                        <h4 class="ptitulonoticias">Título del video</h4>
                                     </div>
-                                </div>
+                                    </div> </a>
                             </div> <!-- /.lg-4 -->
                             <div class="col-sm-4">
-                                <div class="thumbnail pnoticias">
+                                <a href="vervideos.php"><div class="thumbnail pnoticias">
                                     <img src="img/images (2).jpg" alt="...">
                                     <div class="caption">
-                                        <h4>Título de la noticia</h4>
+                                        <h4 class="ptitulonoticias">Título del video</h4>
                                     </div>
-                                </div>
+                                    </div> </a>
+                            </div> <!-- /.lg-4 -->
+                        </div> <!-- /.row -->
+                        <hr>
+                        
+                             <div class="row">
+                            <div class="col-sm-4">
+                                <a href="vervideos.php"><div class="thumbnail pnoticias">
+                                    <img src="img/images (2).jpg" alt="...">
+                                    <div class="caption">
+                                        <h4 class="ptitulonoticias">Título del video</h4>
+                                    </div>
+                                    </div> </a>
+                            </div> <!-- /.lg-4 -->
+                            <div class="col-sm-4">
+                                <a href="vervideos.php"><div class="thumbnail pnoticias">
+                                    <img src="img/images (2).jpg" alt="...">
+                                    <div class="caption">
+                                        <h4 class="ptitulonoticias">Título del video</h4>
+                                    </div>
+                                    </div> </a>
+                            </div> <!-- /.lg-4 -->
+                            <div class="col-sm-4">
+                                <a href="vervideos.php"><div class="thumbnail pnoticias">
+                                    <img src="img/images (2).jpg" alt="...">
+                                    <div class="caption">
+                                        <h4 class="ptitulonoticias">Título del video</h4>
+                                    </div>
+                                    </div> </a>
                             </div> <!-- /.lg-4 -->
                         </div> <!-- /.row -->
                         
@@ -121,6 +123,10 @@
             </div> <!-- /.col-lg-12 -->
         </section> <!-- /.container -->
         <!-- /Contenido -->
+        <br>
+        
+        <?php include 'paginacion.php' ?>
+        
         
         <!-- FOOTER -->
         <?php include 'footer.php' ?>

@@ -26,27 +26,49 @@
         <!-- HEADER -->
         <?php include 'encabezado.php' ?>
         <!-- /Header -->
-        
+
         <!-- CONTENIDO -->
         <section class="container espacio">
             <div class="col-lg-7">
                 <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h3 class="panel-title"> T I T U L O DE LA N O T I C I A</h3>
-                    </div> <!-- /.panel-heading -->
                     <div class="panel-body">
                         <div class="row">
-                            <div class="col-lg-12">
+                            <div class="col-lg-12 fecha">
+                                <h3 class="titulonota"> TITULO DE LA NOTICIA </h3>
+                            </div> <!-- /.lg-7 -->
+                        </div> <!-- /.row -->
+                        <br>
+                        <div class="row">
+                            <div class="col-lg-12 fecha">
                                 <p> Enero 31, 2016 </p>
                             </div> <!-- /.lg-7 -->
                         </div> <!-- /.row --> 
+                        <br>
+                        
                         <div class="row">
                             <div class="col-lg-12">
-                                <img class="img-responsive" src="img/images (2).jpg" alt="">
+                                <div class="panel panel-default">
+                                    <div class="panel-body">
+                                        <img class="imgnota img-responsive" src="img/images (2).jpg" alt="">
+                                    </div>
+                                    <div class="panel-footer">
+                                        <p>
+                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                                            sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                                            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+                                            ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
+                                            in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+                                            deserunt mollit anim id est laborum.
+                                        </p>
+                                    </div>
+                                </div>
                             </div> <!-- /.lg-7 -->    
                         </div> <!-- /.row --> 
+
+                        <br>
                         <div class="row">
-                            <div class="col-lg-12">
+                            <div class="col-lg-12 textonoticias">
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                                 </p>
@@ -65,36 +87,12 @@
                     </div> <!-- /.panel-body -->    
                 </div> <!-- /.panel -->    
             </div> <!-- /.lg-7 -->
-            
-            <div class="col-lg-4 col-xs-offset-1">
-                <div class="panel panel-default">
-                    <div class="panel-heading" id="ppublicidad">
-                        <h1 class="panel-title"><b>PUBLICIDAD</b></h1>
-                    </div> <!-- /.panel-heading --> 
-                    <div class="panel-body">
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <img class="" src="img/logoO.png" alt="">
-                            </div>
-                        </div> <!-- /.row -->
-                        
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <img class="" src="img/logoO.png" alt="">
-                            </div>
-                        </div> <!-- /.row -->
-                        
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <img class="" src="img/logoO.png" alt="">
-                            </div>
-                        </div> <!-- /.row -->
-                    </div> <!-- /.panel-bdy -->
-                </div> <!-- /.panel -->
-            </div> <!-- /.lg-4 -->
+
+            <?php include'publicidadnotas.php' ?>
+
         </section> <!-- /.Container -->
         <!-- /Contenido -->
-        
+
         <!-- FOOTER -->
         <?php include 'footer.php' ?>
         <!-- /Footer -->

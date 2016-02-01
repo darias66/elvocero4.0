@@ -37,96 +37,121 @@
                     <div class="panel-body">
                         <div class="row">
                             <div class="col-sm-4">
-                                <a href=""><div class="thumbnail pnoticias">
-                                    <img src="img/images (2).jpg" alt="...">
-                                    <div class="caption">
-                                        <h4>Título de la noticia</h4>
-                                    </div>
+                                <a href="" data-toggle="modal" data-target="#2" style="text-decoration: none">
+                                    <div class="thumbnail pnoticias">
+                                        <img src="img/images (2).jpg" alt="...">
+                                        <div class="caption">
+                                            <h4 class="ptitulonoticias">Título de la publicidad</h4>
+                                        </div>
                                     </div> </a>
                             </div> <!-- /.lg-4 -->
                             <div class="col-sm-4">
-                                <div class="thumbnail pnoticias">
-                                    <img src="img/images (2).jpg" alt="...">
-                                    <div class="caption">
-                                        <h4>Título de la noticia</h4>
-                                    </div>
-                                </div>
+                                <a href="" data-toggle="modal" data-target="#2" style="text-decoration: none">
+                                    <div class="thumbnail pnoticias">
+                                        <img src="img/images (2).jpg" alt="...">
+                                        <div class="caption">
+                                            <h4 class="ptitulonoticias">Título de la publicidad</h4>
+                                        </div>
+                                    </div> </a>
                             </div> <!-- /.lg-4 -->
                             <div class="col-sm-4">
-                                <div class="thumbnail pnoticias">
-                                    <img src="img/images (2).jpg" alt="...">
-                                    <div class="caption">
-                                        <h4>Título de la noticia</h4>
-                                    </div>
-                                </div>
+                                <a href="" data-toggle="modal" data-target="#2" style="text-decoration: none">
+                                    <div class="thumbnail pnoticias">
+                                        <img src="img/images (2).jpg" alt="...">
+                                        <div class="caption">
+                                            <h4 class="ptitulonoticias">Título de la publicidad</h4>
+                                        </div>
+                                    </div> </a>
                             </div> <!-- /.lg-4 -->
-                        </div> <!-- /.row -->
-                        
-                        <div class="row">
+                            <hr>
+
                             <div class="col-sm-4">
-                                <div class="thumbnail pnoticias">
-                                    <img src="img/images (2).jpg" alt="...">
-                                    <div class="caption">
-                                        <h4>Título de la noticia</h4>
-                                    </div>
-                                </div>
-                            </div> <!-- /.lg-4 -->
-                            <div class="col-sm-4">
-                                <div class="thumbnail pnoticias">
-                                    <img src="img/images (2).jpg" alt="...">
-                                    <div class="caption">
-                                        <h4>Título de la noticia</h4>
-                                    </div>
-                                </div>
+                                <a href="" data-toggle="modal" data-target="#2" style="text-decoration: none">
+                                    <div class="thumbnail pnoticias">
+                                        <img src="img/images (2).jpg" alt="...">
+                                        <div class="caption">
+                                            <h4 class="ptitulonoticias">Título de la publicidad</h4>
+                                        </div>
+                                    </div> </a>
                             </div> <!-- /.lg-4 -->
                             <div class="col-sm-4">
-                                <div class="thumbnail pnoticias">
-                                    <img src="img/images (2).jpg" alt="...">
-                                    <div class="caption">
-                                        <h4>Título de la noticia</h4>
-                                    </div>
-                                </div>
-                            </div> <!-- /.lg-4 -->
-                        </div> <!-- /.row -->
-                        
-                        <div class="row">
-                            <div class="col-sm-4">
-                                <div class="thumbnail pnoticias">
-                                    <img src="img/images (2).jpg" alt="...">
-                                    <div class="caption">
-                                        <h4>Título de la noticia</h4>
-                                    </div>
-                                </div>
+                                <a href="" data-toggle="modal" data-target="#2" style="text-decoration: none">
+                                    <div class="thumbnail pnoticias">
+                                        <img src="img/images (2).jpg" alt="...">
+                                        <div class="caption">
+                                            <h4 class="ptitulonoticias">Título de la publicidad</h4>
+                                        </div>
+                                    </div> </a>
                             </div> <!-- /.lg-4 -->
                             <div class="col-sm-4">
-                                <div class="thumbnail pnoticias">
-                                    <img src="img/images (2).jpg" alt="...">
-                                    <div class="caption">
-                                        <h4>Título de la noticia</h4>
-                                    </div>
-                                </div>
+                                <a href="" data-toggle="modal" data-target="#2" style="text-decoration: none">
+                                    <div class="thumbnail pnoticias">
+                                        <img src="img/images (2).jpg" alt="...">
+                                        <div class="caption">
+                                            <h4 class="ptitulonoticias">Título de la publicidad</h4>
+                                        </div>
+                                    </div> </a>
+                            </div> <!-- /.lg-4 -->
+                            <hr>
+
+                            <div class="col-sm-4">
+                                <a href="" data-toggle="modal" data-target="#2" style="text-decoration: none">
+                                    <div class="thumbnail pnoticias">
+                                        <img src="img/images (2).jpg" alt="...">
+                                        <div class="caption">
+                                            <h4 class="ptitulonoticias">Título de la publicidad</h4>
+                                        </div>
+                                    </div> </a>
                             </div> <!-- /.lg-4 -->
                             <div class="col-sm-4">
-                                <div class="thumbnail pnoticias">
-                                    <img src="img/images (2).jpg" alt="...">
-                                    <div class="caption">
-                                        <h4>Título de la noticia</h4>
-                                    </div>
-                                </div>
+                                <a href="" data-toggle="modal" data-target="#2" style="text-decoration: none">
+                                    <div class="thumbnail pnoticias">
+                                        <img src="img/images (2).jpg" alt="...">
+                                        <div class="caption">
+                                            <h4 class="ptitulonoticias">Título de la publicidad</h4>
+                                        </div>
+                                    </div> </a>
                             </div> <!-- /.lg-4 -->
-                        </div> <!-- /.row -->
-                        
-                    </div> <!-- /.panel-body -->
-                </div> <!-- /.panel -->
-            </div> <!-- /.lg-12 -->
+                            <div class="col-sm-4">
+                                <a href="" data-toggle="modal" data-target="#2" style="text-decoration: none">
+                                    <div class="thumbnail pnoticias">
+                                        <img src="img/images (2).jpg" alt="...">
+                                        <div class="caption">
+                                            <h4 class="ptitulonoticias">Título de la publicidad</h4>
+                                        </div>
+                                    </div> </a>
+                            </div> <!-- /.lg-4 -->
+
+                        </div> <!-- /.panel-body -->
+                    </div> <!-- /.panel -->
+                </div> <!-- /.lg-12 -->
         </section> <!-- /.container -->
         <!-- /Contenido -->
 
+        <br>
+        
+        <?php include 'paginacion.php' ?>
+        
         <!-- FOOTER -->
         <?php include 'footer.php' ?>
         <!-- /Footer -->
 
-
+        <!-- MODAL -->
+        <div class="modal fade" id="2">
+            <div class="modal-dialog">   
+                <div class="modal-content">
+                    <table>
+                        <tr>
+                            <td><div><img class="imagenesmodal" src="img/images (2).jpg" alt=""></div></td>
+                        </tr>
+                        <tr>
+                            <td><div><p class="textomodal">D E S C R I P C I O N </p></div></td>
+                        </tr>
+                    </table> 
+                </div> <!-- /.modal-content -->
+            </div><!-- /.modal-dialog --> 
+        </div> <!-- /.modal fade -->
+        <!-- /Modal -->
 
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
