@@ -24,7 +24,7 @@
                 <!-- LOGO E IMAGEN -->
                 <div class="navbar-header visible-xs-inline-block visible-sm-inline-block visible-md-inline-block visible-lg-inline-block">
                     <a class="navbar-brand" href="index.php">
-                        <img class="img-responsive" id="logo" alt="" src="img/logoO.png">
+                        <img class="img-responsive" id="logo" title="El Vocero | La voz oficial de la noticia" alt="Logo" src="img/logoO.png">
                     </a>
                     <p class="navbar-text hidden-xs " id="slogan"><b> La voz oficial de la noticia </b></p>
                 </div> <!-- /navbar-header -->

@@ -142,7 +142,7 @@
                 <div class="modal-content">
                     <table>
                         <tr>
-                            <td><div><img class="imagenesmodal" src="img/images (2).jpg" alt=""></div></td>
+                            <td><div><img class="imagenesmodal img-responsive" src="img/images (2).jpg" alt=""></div></td>
                         </tr>
                         <tr>
                             <td><div><p class="textomodal">D E S C R I P C I O N </p></div></td>

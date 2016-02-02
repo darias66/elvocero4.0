@@ -1,9 +1,9 @@
 
     <div class="col-lg-4 col-xs-offset-1">
         <div class="panel panel-default">
-            <div class="panel-heading" id="ppublicidad">
+            <a href="publicidad.php" style="text-decoration: none;"><div class="panel-heading" id="ppublicidad">
                 <h1 class="panel-title"><b>PUBLICIDAD</b></h1>
-            </div> <!-- /.panel-heading --> 
+                </div></a> <!-- /.panel-heading --> 
             <div class="panel-body">
                 <div class="row">
                     <div class="col-lg-12">

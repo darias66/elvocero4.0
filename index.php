@@ -33,7 +33,7 @@
             <div class="col-lg-12">
 
                 <div class="panel panel-default">
-                    <a href="Municipios.php">
+                    <a href="Municipios.php" style="text-decoration: none">
                         <div class="panel-heading" id="pmunicipios">
                             <h1 class="panel-title"><b>MUNICIPIOS</b></h1>
                         </div>
@@ -97,7 +97,7 @@
                 </div> <!-- /panel -->
 
                 <div class="panel panel-default">
-                    <a href="politica.php">
+                    <a href="politica.php" style="text-decoration: none;">
                         <div class="panel-heading" id="ppolitica">
                             <h1 class="panel-title"><b>POLITICA Y GOBIERNO</b></h1>
                         </div>
@@ -161,7 +161,7 @@
                 </div> <!-- /panel -->
 
                 <div class="panel panel-default">
-                    <a href="policia.php">
+                    <a href="policia.php" style="text-decoration: none;">
                         <div class="panel-heading" id="ppolicia">
                             <h1 class="panel-title"><b>POLICIA</b></h1>
                         </div>
@@ -225,7 +225,7 @@
                 </div> <!-- /panel -->
 
                 <div class="panel panel-default">
-                    <a href="deportes.php">
+                    <a href="deportes.php" style="text-decoration: none;">
                         <div class="panel-heading" id="pdeportes">
                             <h1 class="panel-title"><b>DEPORTES</b></h1>
                         </div>
@@ -289,7 +289,7 @@
                 </div> <!-- /panel -->
 
                 <div class="panel panel-default">
-                    <a href="espectaculos.php">
+                    <a href="espectaculos.php" style="text-decoration: none;">
                         <div class="panel-heading" id="pespectaculos">
                             <h1 class="panel-title"><b>ESPECTACULOS</b></h1>
                         </div>

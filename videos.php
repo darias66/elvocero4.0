@@ -37,7 +37,7 @@
                     <div class="panel-body">
                         <div class="row">
                             <div class="col-sm-4">
-                                <a href="vervideos.php"><div class="thumbnail pnoticias">
+                                <a href="vervideos.php" style="text-decoration: none;"><div class="thumbnail pnoticias">
                                     <img src="img/images (2).jpg" alt="...">
                                     <div class="caption">
                                         <h4 class="ptitulonoticias">Título del video</h4>
@@ -45,7 +45,7 @@
                                     </div> </a>
                             </div> <!-- /.lg-4 -->
                             <div class="col-sm-4">
-                                <a href="vervideos.php"><div class="thumbnail pnoticias">
+                                <a href="vervideos.php" style="text-decoration: none;"><div class="thumbnail pnoticias">
                                     <img src="img/images (2).jpg" alt="...">
                                     <div class="caption">
                                         <h4 class="ptitulonoticias">Título del video</h4>
@@ -53,35 +53,7 @@
                                     </div> </a>
                             </div> <!-- /.lg-4 -->
                             <div class="col-sm-4">
-                                <a href="vervideos.php"><div class="thumbnail pnoticias">
-                                    <img src="img/images (2).jpg" alt="...">
-                                    <div class="caption">
-                                        <h4 class="ptitulonoticias">Título del video</h4>
-                                    </div>
-                                    </div> </a>
-                            </div> <!-- /.lg-4 -->
-                        </div> <!-- /.row -->
-                        <hr>
-                        
-                             <div class="row">
-                            <div class="col-sm-4">
-                                <a href="vervideos.php"><div class="thumbnail pnoticias">
-                                    <img src="img/images (2).jpg" alt="...">
-                                    <div class="caption">
-                                        <h4 class="ptitulonoticias">Título del video</h4>
-                                    </div>
-                                    </div> </a>
-                            </div> <!-- /.lg-4 -->
-                            <div class="col-sm-4">
-                                <a href="vervideos.php"><div class="thumbnail pnoticias">
-                                    <img src="img/images (2).jpg" alt="...">
-                                    <div class="caption">
-                                        <h4 class="ptitulonoticias">Título del video</h4>
-                                    </div>
-                                    </div> </a>
-                            </div> <!-- /.lg-4 -->
-                            <div class="col-sm-4">
-                                <a href="vervideos.php"><div class="thumbnail pnoticias">
+                                <a href="vervideos.php" style="text-decoration: none;"><div class="thumbnail pnoticias">
                                     <img src="img/images (2).jpg" alt="...">
                                     <div class="caption">
                                         <h4 class="ptitulonoticias">Título del video</h4>
@@ -93,7 +65,7 @@
                         
                              <div class="row">
                             <div class="col-sm-4">
-                                <a href="vervideos.php"><div class="thumbnail pnoticias">
+                                <a href="vervideos.php" style="text-decoration: none;"><div class="thumbnail pnoticias">
                                     <img src="img/images (2).jpg" alt="...">
                                     <div class="caption">
                                         <h4 class="ptitulonoticias">Título del video</h4>
@@ -101,7 +73,7 @@
                                     </div> </a>
                             </div> <!-- /.lg-4 -->
                             <div class="col-sm-4">
-                                <a href="vervideos.php"><div class="thumbnail pnoticias">
+                                <a href="vervideos.php" style="text-decoration: none;"><div class="thumbnail pnoticias">
                                     <img src="img/images (2).jpg" alt="...">
                                     <div class="caption">
                                         <h4 class="ptitulonoticias">Título del video</h4>
@@ -109,7 +81,35 @@
                                     </div> </a>
                             </div> <!-- /.lg-4 -->
                             <div class="col-sm-4">
-                                <a href="vervideos.php"><div class="thumbnail pnoticias">
+                                <a href="vervideos.php" style="text-decoration: none;"><div class="thumbnail pnoticias">
+                                    <img src="img/images (2).jpg" alt="...">
+                                    <div class="caption">
+                                        <h4 class="ptitulonoticias">Título del video</h4>
+                                    </div>
+                                    </div> </a>
+                            </div> <!-- /.lg-4 -->
+                        </div> <!-- /.row -->
+                        <hr>
+                        
+                             <div class="row">
+                            <div class="col-sm-4">
+                                <a href="vervideos.php" style="text-decoration: none;"><div class="thumbnail pnoticias">
+                                    <img src="img/images (2).jpg" alt="...">
+                                    <div class="caption">
+                                        <h4 class="ptitulonoticias">Título del video</h4>
+                                    </div>
+                                    </div> </a>
+                            </div> <!-- /.lg-4 -->
+                            <div class="col-sm-4">
+                                <a href="vervideos.php" style="text-decoration: none;"><div class="thumbnail pnoticias">
+                                    <img src="img/images (2).jpg" alt="...">
+                                    <div class="caption">
+                                        <h4 class="ptitulonoticias">Título del video</h4>
+                                    </div>
+                                    </div> </a>
+                            </div> <!-- /.lg-4 -->
+                            <div class="col-sm-4">
+                                <a href="vervideos.php" style="text-decoration: none;"><div class="thumbnail pnoticias">
                                     <img src="img/images (2).jpg" alt="...">
                                     <div class="caption">
                                         <h4 class="ptitulonoticias">Título del video</h4>

@@ -41,7 +41,7 @@
                             </div> <!-- /.sm-4 -->
                             <div class="col-sm-7">
 
-                                <a href=""><h4 class="titulosintesis">T I T U L O  N O T I C I A</h4></a>
+                                <a href="notas.php" style="text-decoration: none;"><h4 class="titulosintesis">T I T U L O  N O T I C I A</h4></a>
                                 <div class="row">
                                     <div class="col-sm-12">
                                         <p class="fecha"> Febrero 01, 2016</p>
@@ -67,7 +67,7 @@
                             </div> <!-- /.sm-4 -->
                             <div class="col-sm-7">
 
-                                <a href=""><h4 class="titulosintesis">T I T U L O  N O T I C I A</h4></a>
+                                <a href="notas.php" style="text-decoration: none;"><h4 class="titulosintesis">T I T U L O  N O T I C I A</h4></a>
                                 <div class="row">
                                     <div class="col-sm-12">
                                         <p class="fecha"> Febrero 01, 2016</p>
